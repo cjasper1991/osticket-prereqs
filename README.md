@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Connect to virtual machine with remote desktop
+- Creat and Connect to virtual machine with remote desktop
 - Install/Enable IIS in windows 
 - Install Web Platform installer
 - Install Osticket version 1.15.8 
