@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Creat and Connect to virtual machine with remote desktop
+- Create and Connect to virtual machine with remote desktop
 - Install/Enable IIS in windows 
 - Install Web Platform installer
 - Install Osticket version 1.15.8 
@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src=https://i.imgur.com/Dwt0wkd.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Created a virtual machine in Microsoft Azure. Created a Azure Virtual Machine 10, with 2-4 Virtual CPUs. Connected to that Virtual Machine using  Remote Destop Connection on my Microsoft Laptop.
 </p>
 <br />
 
@@ -42,16 +42,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src=https://i.imgur.com/WiWTu1g.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to Contol Panle and under Programs, select uninstall a Program. on the next page, select Turn Windows features on/off, then enable the Internet Information Services known as the (IIS) from available services.
 </p>
 <br />
 
 <p>
 [<img src=https://i.imgur.com/CvR0gsb.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+With (IIS) being enabled, we are now able to install Web Platform installers.
 </p>
 <br />
 <img src=https://i.imgur.com/HmPphxb.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
-root
+Download OSticket from the installation files folder.
 [<img src= https://i.imgur.com/rtNwGG1.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Once the WEBPI is installed, we can now download and install HeidiSQL. Create a new session, root/Password1, then create new seesion, and create database called OSticket.
