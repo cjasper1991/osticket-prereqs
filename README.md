@@ -22,11 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Connect to virtual machine with remote desktop
+- Install/Enable IIS in windows 
+- Install Web Platform installer
+- Install Osticket version 1.15.8 
+- Download and install HeidiSQL
 
 <h2>Installation Steps</h2>
 
